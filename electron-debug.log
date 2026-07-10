@@ -1,0 +1,908 @@
+[2026-06-29T17:10:35.918Z] Electron script started
+[2026-06-29T17:10:35.921Z] Starting Express server...
+[2026-06-29T17:10:36.187Z] Express server started successfully
+[2026-06-29T17:10:36.190Z] Uncaught Exception: Cannot read properties of undefined (reading 'whenReady')
+Stack: TypeError: Cannot read properties of undefined (reading 'whenReady')
+    at Object.<anonymous> (C:\Users\ELCOT\.gemini\antigravity-ide\scratch\the-loomist\electron.js:149:5)
+    at Module._compile (node:internal/modules/cjs/loader:1804:14)
+    at Object..js (node:internal/modules/cjs/loader:1936:10)
+    at Module.load (node:internal/modules/cjs/loader:1525:32)
+    at Module._load (node:internal/modules/cjs/loader:1327:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+[2026-06-29T17:11:25.631Z] Electron script started
+[2026-06-29T17:11:25.639Z] Starting Express server...
+[2026-06-29T17:11:25.897Z] Express server started successfully
+[2026-06-29T17:11:26.076Z] Electron app ready
+[2026-06-29T17:11:26.079Z] Instantiating BrowserWindow...
+[2026-06-29T17:11:26.294Z] Loading URL: http://localhost:3000
+[2026-06-29T17:11:26.347Z] createWindow finished successfully
+[2026-06-29T17:11:29.181Z] webContents did-finish-load fired
+[2026-06-30T01:57:08.100Z] Electron script started
+[2026-06-30T01:57:08.103Z] Starting Express server...
+[2026-06-30T01:57:12.445Z] Express server started successfully
+[2026-06-30T01:57:12.770Z] Electron app ready
+[2026-06-30T01:57:12.773Z] Instantiating BrowserWindow...
+[2026-06-30T01:57:13.004Z] Loading URL: http://localhost:3000
+[2026-06-30T01:57:13.096Z] createWindow finished successfully
+[2026-06-30T01:57:15.554Z] webContents did-finish-load fired
+[2026-06-30T02:54:24.977Z] Electron script started
+[2026-06-30T02:54:24.982Z] Starting Express server...
+[2026-06-30T02:54:27.907Z] Express server started successfully
+[2026-06-30T02:54:28.068Z] Electron app ready
+[2026-06-30T02:54:28.072Z] Instantiating BrowserWindow...
+[2026-06-30T02:54:28.220Z] Loading URL: http://localhost:3987
+[2026-06-30T02:54:28.252Z] createWindow finished successfully
+[2026-06-30T02:54:28.901Z] webContents did-finish-load fired
+[2026-06-30T02:54:45.682Z] Electron script started
+[2026-06-30T02:54:45.685Z] Starting Express server...
+[2026-06-30T02:54:45.896Z] Express server started successfully
+[2026-06-30T02:54:45.958Z] Electron app ready
+[2026-06-30T02:54:45.961Z] Instantiating BrowserWindow...
+[2026-06-30T02:54:46.056Z] Loading URL: http://localhost:3987
+[2026-06-30T02:54:46.079Z] createWindow finished successfully
+[2026-06-30T02:54:46.392Z] webContents did-finish-load fired
+[2026-06-30T02:54:58.387Z] mainWindow closed event fired
+[2026-06-30T02:54:58.389Z] All windows closed
+[2026-06-30T02:54:58.390Z] Quitting Electron app
+[2026-06-30T02:55:25.378Z] Electron script started
+[2026-06-30T02:55:25.379Z] Starting Express server...
+[2026-06-30T02:55:25.540Z] Express server started successfully
+[2026-06-30T02:55:25.598Z] Electron app ready
+[2026-06-30T02:55:25.602Z] Instantiating BrowserWindow...
+[2026-06-30T02:55:25.688Z] Loading URL: http://localhost:3987
+[2026-06-30T02:55:25.707Z] createWindow finished successfully
+[2026-06-30T02:55:26.024Z] webContents did-finish-load fired
+[2026-06-30T02:55:32.707Z] mainWindow closed event fired
+[2026-06-30T02:55:32.708Z] All windows closed
+[2026-06-30T02:55:32.709Z] Quitting Electron app
+[2026-06-30T05:29:59.228Z] Electron script started
+[2026-06-30T05:29:59.230Z] Starting Express server...
+[2026-06-30T05:30:02.415Z] Express server started successfully
+[2026-06-30T05:30:02.519Z] Electron app ready
+[2026-06-30T05:30:02.521Z] Instantiating BrowserWindow...
+[2026-06-30T05:30:02.591Z] Loading URL: http://localhost:3987
+[2026-06-30T05:30:02.607Z] createWindow finished successfully
+[2026-06-30T05:30:03.485Z] webContents did-finish-load fired
+[2026-06-30T05:53:43.469Z] Electron script started
+[2026-06-30T05:53:43.471Z] Starting Express server...
+[2026-06-30T05:53:47.655Z] Express server started successfully
+[2026-06-30T05:53:47.829Z] Electron app ready
+[2026-06-30T05:53:47.831Z] Instantiating BrowserWindow...
+[2026-06-30T05:53:47.919Z] Loading URL: http://localhost:3987
+[2026-06-30T05:53:47.939Z] createWindow finished successfully
+[2026-06-30T05:53:51.371Z] webContents did-finish-load fired
+[2026-06-30T05:55:20.504Z] Electron script started
+[2026-06-30T05:55:20.505Z] Starting Express server...
+[2026-06-30T05:55:20.761Z] Express server started successfully
+[2026-06-30T05:55:20.812Z] Electron app ready
+[2026-06-30T05:55:20.815Z] Instantiating BrowserWindow...
+[2026-06-30T05:55:20.902Z] Loading URL: http://localhost:3987
+[2026-06-30T05:55:20.923Z] createWindow finished successfully
+[2026-06-30T05:55:23.172Z] webContents did-finish-load fired
+[2026-06-30T05:55:36.091Z] mainWindow closed event fired
+[2026-06-30T05:55:36.093Z] All windows closed
+[2026-06-30T05:55:36.094Z] Quitting Electron app
+[2026-06-30T05:55:40.252Z] mainWindow closed event fired
+[2026-06-30T05:55:40.254Z] All windows closed
+[2026-06-30T05:55:40.255Z] Quitting Electron app
+[2026-06-30T05:55:47.793Z] Electron script started
+[2026-06-30T05:55:47.794Z] Starting Express server...
+[2026-06-30T05:55:48.046Z] Express server started successfully
+[2026-06-30T05:55:48.104Z] Electron app ready
+[2026-06-30T05:55:48.108Z] Instantiating BrowserWindow...
+[2026-06-30T05:55:48.193Z] Loading URL: http://localhost:3987
+[2026-06-30T05:55:48.212Z] createWindow finished successfully
+[2026-06-30T05:55:48.707Z] webContents did-finish-load fired
+[2026-06-30T05:56:33.617Z] webContents did-finish-load fired
+[2026-06-30T05:59:23.128Z] webContents did-finish-load fired
+[2026-06-30T06:04:46.233Z] Electron script started
+[2026-06-30T06:04:46.235Z] Starting Express server...
+[2026-06-30T06:04:46.499Z] Express server started successfully
+[2026-06-30T06:04:46.562Z] Electron app ready
+[2026-06-30T06:04:46.564Z] Instantiating BrowserWindow...
+[2026-06-30T06:04:46.629Z] Loading URL: http://localhost:3987
+[2026-06-30T06:04:46.656Z] createWindow finished successfully
+[2026-06-30T06:05:09.689Z] webContents did-finish-load fired
+[2026-06-30T06:09:54.231Z] Electron script started
+[2026-06-30T06:09:54.232Z] Starting Express server...
+[2026-06-30T06:09:54.452Z] Express server started successfully
+[2026-06-30T06:09:54.538Z] Electron app ready
+[2026-06-30T06:09:54.541Z] Instantiating BrowserWindow...
+[2026-06-30T06:09:54.630Z] Loading URL: http://localhost:3987
+[2026-06-30T06:09:54.649Z] createWindow finished successfully
+[2026-06-30T06:10:04.058Z] mainWindow closed event fired
+[2026-06-30T06:10:04.060Z] All windows closed
+[2026-06-30T06:10:04.061Z] Quitting Electron app
+[2026-06-30T06:10:07.074Z] webContents did-finish-load fired
+[2026-06-30T06:14:41.568Z] mainWindow closed event fired
+[2026-06-30T06:14:41.571Z] All windows closed
+[2026-06-30T06:14:41.573Z] Quitting Electron app
+[2026-06-30T06:20:45.403Z] Electron script started
+[2026-06-30T06:20:45.404Z] Starting Express server...
+[2026-06-30T06:20:45.556Z] Express server started successfully
+[2026-06-30T06:20:45.612Z] Electron app ready
+[2026-06-30T06:20:45.614Z] Instantiating BrowserWindow...
+[2026-06-30T06:20:45.663Z] Loading URL: http://localhost:3987
+[2026-06-30T06:20:45.691Z] createWindow finished successfully
+[2026-06-30T06:20:46.178Z] webContents did-finish-load fired
+[2026-06-30T06:24:04.510Z] Electron script started
+[2026-06-30T06:24:04.511Z] Starting Express server...
+[2026-06-30T06:24:04.678Z] Express server started successfully
+[2026-06-30T06:24:04.734Z] Electron app ready
+[2026-06-30T06:24:04.737Z] Instantiating BrowserWindow...
+[2026-06-30T06:24:04.815Z] Loading URL: http://localhost:3987
+[2026-06-30T06:24:04.835Z] createWindow finished successfully
+[2026-06-30T06:24:10.581Z] webContents did-finish-load fired
+[2026-06-30T06:32:22.263Z] webContents did-finish-load fired
+[2026-06-30T06:32:45.318Z] webContents did-finish-load fired
+[2026-06-30T06:34:15.800Z] mainWindow closed event fired
+[2026-06-30T06:34:15.802Z] All windows closed
+[2026-06-30T06:34:15.805Z] Quitting Electron app
+[2026-06-30T07:14:54.486Z] Electron script started
+[2026-06-30T07:14:54.489Z] Starting Express server...
+[2026-06-30T07:14:54.731Z] Express server started successfully
+[2026-06-30T07:14:54.820Z] Electron app ready
+[2026-06-30T07:14:54.823Z] Instantiating BrowserWindow...
+[2026-06-30T07:14:54.956Z] Loading URL: http://localhost:3987
+[2026-06-30T07:14:54.994Z] createWindow finished successfully
+[2026-06-30T07:14:55.323Z] webContents did-finish-load fired
+[2026-06-30T07:23:09.078Z] Electron script started
+[2026-06-30T07:23:09.079Z] Starting Express server...
+[2026-06-30T07:23:09.246Z] Express server started successfully
+[2026-06-30T07:23:09.310Z] Electron app ready
+[2026-06-30T07:23:09.313Z] Instantiating BrowserWindow...
+[2026-06-30T07:23:09.404Z] Loading URL: http://localhost:3987
+[2026-06-30T07:23:09.426Z] createWindow finished successfully
+[2026-06-30T07:23:12.244Z] webContents did-finish-load fired
+[2026-06-30T07:24:13.961Z] mainWindow closed event fired
+[2026-06-30T07:24:13.962Z] All windows closed
+[2026-06-30T07:24:13.967Z] Quitting Electron app
+[2026-06-30T07:24:37.742Z] Electron script started
+[2026-06-30T07:24:37.743Z] Starting Express server...
+[2026-06-30T07:24:38.015Z] Express server started successfully
+[2026-06-30T07:24:38.078Z] Electron app ready
+[2026-06-30T07:24:38.083Z] Instantiating BrowserWindow...
+[2026-06-30T07:24:38.176Z] Loading URL: http://localhost:3987
+[2026-06-30T07:24:38.198Z] createWindow finished successfully
+[2026-06-30T07:24:40.438Z] webContents did-finish-load fired
+[2026-06-30T07:26:11.196Z] webContents did-finish-load fired
+[2026-06-30T07:37:32.341Z] mainWindow closed event fired
+[2026-06-30T07:37:32.352Z] All windows closed
+[2026-06-30T07:37:32.353Z] Quitting Electron app
+[2026-06-30T07:39:11.262Z] Electron script started
+[2026-06-30T07:39:11.264Z] Starting Express server...
+[2026-06-30T07:39:11.511Z] Express server started successfully
+[2026-06-30T07:39:11.574Z] Electron app ready
+[2026-06-30T07:39:11.577Z] Instantiating BrowserWindow...
+[2026-06-30T07:39:11.705Z] Loading URL: http://localhost:3987
+[2026-06-30T07:39:11.730Z] createWindow finished successfully
+[2026-06-30T07:39:31.405Z] webContents did-finish-load fired
+[2026-06-30T07:40:09.469Z] webContents did-finish-load fired
+[2026-06-30T07:41:10.732Z] webContents did-fail-load: -3 - 
+[2026-06-30T07:41:20.984Z] webContents did-finish-load fired
+[2026-06-30T09:55:24.598Z] Electron script started
+[2026-06-30T09:55:24.602Z] Starting Express server...
+[2026-06-30T09:55:28.074Z] Express server started successfully
+[2026-06-30T09:55:28.194Z] Electron app ready
+[2026-06-30T09:55:28.196Z] Instantiating BrowserWindow...
+[2026-06-30T09:55:28.319Z] Loading URL: http://localhost:3987
+[2026-06-30T09:55:28.346Z] createWindow finished successfully
+[2026-06-30T09:55:28.831Z] webContents did-finish-load fired
+[2026-06-30T09:56:10.496Z] mainWindow closed event fired
+[2026-06-30T09:56:10.498Z] All windows closed
+[2026-06-30T09:56:10.500Z] Quitting Electron app
+[2026-06-30T09:56:15.726Z] Electron script started
+[2026-06-30T09:56:15.727Z] Starting Express server...
+[2026-06-30T09:56:15.859Z] Express server started successfully
+[2026-06-30T09:56:15.900Z] Electron app ready
+[2026-06-30T09:56:15.903Z] Instantiating BrowserWindow...
+[2026-06-30T09:56:15.968Z] Loading URL: http://localhost:3987
+[2026-06-30T09:56:15.987Z] createWindow finished successfully
+[2026-06-30T09:56:16.406Z] webContents did-finish-load fired
+[2026-06-30T09:58:41.837Z] webContents did-finish-load fired
+[2026-06-30T10:15:01.253Z] Electron script started
+[2026-06-30T10:15:01.255Z] Starting Express server...
+[2026-06-30T10:15:04.731Z] Express server started successfully
+[2026-06-30T10:15:04.821Z] Electron app ready
+[2026-06-30T10:15:04.823Z] Instantiating BrowserWindow...
+[2026-06-30T10:15:04.904Z] Loading URL: http://localhost:3987
+[2026-06-30T10:15:04.921Z] createWindow finished successfully
+[2026-06-30T10:15:06.786Z] webContents did-finish-load fired
+[2026-06-30T10:15:14.888Z] webContents did-finish-load fired
+[2026-06-30T10:20:24.032Z] mainWindow closed event fired
+[2026-06-30T10:20:24.033Z] All windows closed
+[2026-06-30T10:20:24.034Z] Quitting Electron app
+[2026-06-30T10:27:51.914Z] Electron script started
+[2026-06-30T10:27:51.915Z] Starting Express server...
+[2026-06-30T10:27:52.067Z] Express server started successfully
+[2026-06-30T10:27:52.111Z] Electron app ready
+[2026-06-30T10:27:52.114Z] Instantiating BrowserWindow...
+[2026-06-30T10:27:52.193Z] Loading URL: http://localhost:3987
+[2026-06-30T10:27:52.212Z] createWindow finished successfully
+[2026-06-30T10:27:52.766Z] webContents did-finish-load fired
+[2026-06-30T10:28:38.640Z] webContents did-finish-load fired
+[2026-06-30T10:33:38.333Z] Electron script started
+[2026-06-30T10:33:38.334Z] Starting Express server...
+[2026-06-30T10:33:38.478Z] Express server started successfully
+[2026-06-30T10:33:38.527Z] Electron app ready
+[2026-06-30T10:33:38.530Z] Instantiating BrowserWindow...
+[2026-06-30T10:33:38.615Z] Loading URL: http://localhost:3987
+[2026-06-30T10:33:38.636Z] createWindow finished successfully
+[2026-06-30T10:33:39.104Z] webContents did-finish-load fired
+[2026-06-30T10:33:44.253Z] webContents did-finish-load fired
+[2026-06-30T10:34:57.858Z] webContents did-finish-load fired
+[2026-06-30T10:36:49.698Z] webContents did-finish-load fired
+[2026-06-30T10:48:43.045Z] mainWindow closed event fired
+[2026-06-30T10:48:43.058Z] All windows closed
+[2026-06-30T10:48:43.060Z] Quitting Electron app
+[2026-06-30T11:10:42.964Z] Electron script started
+[2026-06-30T11:10:42.966Z] Starting Express server...
+[2026-06-30T11:10:43.145Z] Express server started successfully
+[2026-06-30T11:10:43.210Z] Electron app ready
+[2026-06-30T11:10:43.212Z] Instantiating BrowserWindow...
+[2026-06-30T11:10:43.342Z] Loading URL: http://localhost:3987
+[2026-06-30T11:10:43.368Z] createWindow finished successfully
+[2026-06-30T11:10:43.629Z] webContents did-finish-load fired
+[2026-06-30T11:13:52.822Z] Electron script started
+[2026-06-30T11:13:52.823Z] Starting Express server...
+[2026-06-30T11:13:53.007Z] Express server started successfully
+[2026-06-30T11:13:53.068Z] Electron app ready
+[2026-06-30T11:13:53.070Z] Instantiating BrowserWindow...
+[2026-06-30T11:13:53.146Z] Loading URL: http://localhost:3987
+[2026-06-30T11:13:53.170Z] createWindow finished successfully
+[2026-06-30T11:13:54.995Z] webContents did-finish-load fired
+[2026-06-30T13:28:20.640Z] Electron script started
+[2026-06-30T13:28:20.643Z] Starting Express server...
+[2026-06-30T13:28:23.930Z] Express server started successfully
+[2026-06-30T13:28:24.066Z] Electron app ready
+[2026-06-30T13:28:24.069Z] Instantiating BrowserWindow...
+[2026-06-30T13:28:24.240Z] Loading URL: http://localhost:3987
+[2026-06-30T13:28:24.270Z] createWindow finished successfully
+[2026-06-30T13:28:24.794Z] webContents did-finish-load fired
+[2026-06-30T15:55:50.567Z] Electron script started
+[2026-06-30T15:55:50.568Z] Starting Express server...
+[2026-06-30T15:55:53.982Z] Express server started successfully
+[2026-06-30T15:55:54.214Z] Electron app ready
+[2026-06-30T15:55:54.218Z] Instantiating BrowserWindow...
+[2026-06-30T15:55:54.313Z] Loading URL: http://localhost:3987
+[2026-06-30T15:55:54.335Z] createWindow finished successfully
+[2026-06-30T15:55:54.679Z] webContents did-finish-load fired
+[2026-06-30T16:07:14.284Z] mainWindow closed event fired
+[2026-06-30T16:07:14.285Z] All windows closed
+[2026-06-30T16:07:14.287Z] Quitting Electron app
+[2026-06-30T16:13:52.454Z] Electron script started
+[2026-06-30T16:13:52.455Z] Starting Express server...
+[2026-06-30T16:13:52.626Z] Express server started successfully
+[2026-06-30T16:13:52.685Z] Electron app ready
+[2026-06-30T16:13:52.688Z] Instantiating BrowserWindow...
+[2026-06-30T16:13:52.748Z] Loading URL: http://localhost:3987
+[2026-06-30T16:13:52.784Z] createWindow finished successfully
+[2026-06-30T16:13:53.174Z] webContents did-finish-load fired
+[2026-06-30T16:23:12.055Z] mainWindow closed event fired
+[2026-06-30T16:23:12.058Z] All windows closed
+[2026-06-30T16:23:12.059Z] Quitting Electron app
+[2026-06-30T16:32:13.973Z] Electron script started
+[2026-06-30T16:32:13.974Z] Starting Express server...
+[2026-06-30T16:32:14.212Z] Express server started successfully
+[2026-06-30T16:32:14.277Z] Electron app ready
+[2026-06-30T16:32:14.280Z] Instantiating BrowserWindow...
+[2026-06-30T16:32:14.370Z] Loading URL: http://localhost:3987
+[2026-06-30T16:32:14.391Z] createWindow finished successfully
+[2026-06-30T16:32:14.666Z] webContents did-finish-load fired
+[2026-06-30T16:32:54.153Z] webContents did-finish-load fired
+[2026-06-30T16:36:26.195Z] Electron script started
+[2026-06-30T16:36:26.195Z] Starting Express server...
+[2026-06-30T16:36:26.450Z] Express server started successfully
+[2026-06-30T16:36:26.512Z] Electron app ready
+[2026-06-30T16:36:26.515Z] Instantiating BrowserWindow...
+[2026-06-30T16:36:26.607Z] Loading URL: http://localhost:3987
+[2026-06-30T16:36:26.625Z] createWindow finished successfully
+[2026-06-30T16:36:28.534Z] webContents did-finish-load fired
+[2026-06-30T16:40:29.406Z] webContents did-finish-load fired
+[2026-06-30T16:46:51.936Z] Electron script started
+[2026-06-30T16:46:51.938Z] Starting Express server...
+[2026-06-30T16:46:52.238Z] Express server started successfully
+[2026-06-30T16:46:52.313Z] Electron app ready
+[2026-06-30T16:46:52.316Z] Instantiating BrowserWindow...
+[2026-06-30T16:46:52.409Z] Loading URL: http://localhost:3987
+[2026-06-30T16:46:52.430Z] createWindow finished successfully
+[2026-06-30T16:46:54.230Z] webContents did-finish-load fired
+[2026-06-30T16:47:09.667Z] webContents did-finish-load fired
+[2026-06-30T16:48:56.057Z] mainWindow closed event fired
+[2026-06-30T16:48:56.060Z] All windows closed
+[2026-06-30T16:48:56.063Z] Quitting Electron app
+[2026-06-30T16:55:02.698Z] Electron script started
+[2026-06-30T16:55:02.700Z] Starting Express server...
+[2026-06-30T16:55:02.948Z] Express server started successfully
+[2026-06-30T16:55:03.018Z] Electron app ready
+[2026-06-30T16:55:03.021Z] Instantiating BrowserWindow...
+[2026-06-30T16:55:03.135Z] Loading URL: http://localhost:3987
+[2026-06-30T16:55:03.157Z] createWindow finished successfully
+[2026-06-30T16:55:03.457Z] webContents did-finish-load fired
+[2026-06-30T16:55:14.481Z] webContents did-finish-load fired
+[2026-06-30T16:56:31.935Z] webContents did-finish-load fired
+[2026-06-30T16:57:18.881Z] webContents did-finish-load fired
+[2026-06-30T17:01:06.027Z] mainWindow closed event fired
+[2026-06-30T17:01:06.028Z] All windows closed
+[2026-06-30T17:01:06.029Z] Quitting Electron app
+[2026-07-01T02:07:34.292Z] Electron script started
+[2026-07-01T02:07:34.295Z] Starting Express server...
+[2026-07-01T02:07:34.555Z] Express server started successfully
+[2026-07-01T02:07:34.622Z] Electron app ready
+[2026-07-01T02:07:34.624Z] Instantiating BrowserWindow...
+[2026-07-01T02:07:34.722Z] Loading URL: http://localhost:3987
+[2026-07-01T02:07:34.737Z] createWindow finished successfully
+[2026-07-01T02:07:35.033Z] webContents did-finish-load fired
+[2026-07-01T02:25:13.436Z] Electron script started
+[2026-07-01T02:25:13.437Z] Starting Express server...
+[2026-07-01T02:25:16.423Z] Express server started successfully
+[2026-07-01T02:25:16.549Z] Electron app ready
+[2026-07-01T02:25:16.552Z] Instantiating BrowserWindow...
+[2026-07-01T02:25:16.661Z] Loading URL: http://localhost:3987
+[2026-07-01T02:25:16.684Z] createWindow finished successfully
+[2026-07-01T02:25:17.117Z] webContents did-finish-load fired
+[2026-07-01T02:31:49.093Z] Electron script started
+[2026-07-01T02:31:49.094Z] Starting Express server...
+[2026-07-01T02:31:49.347Z] Express server started successfully
+[2026-07-01T02:31:49.394Z] Electron app ready
+[2026-07-01T02:31:49.397Z] Instantiating BrowserWindow...
+[2026-07-01T02:31:49.485Z] Loading URL: http://localhost:3987
+[2026-07-01T02:31:49.503Z] createWindow finished successfully
+[2026-07-01T02:31:50.167Z] webContents did-finish-load fired
+[2026-07-01T02:41:20.227Z] Electron script started
+[2026-07-01T02:41:20.228Z] Starting Express server...
+[2026-07-01T02:41:20.508Z] Express server started successfully
+[2026-07-01T02:41:20.558Z] Electron app ready
+[2026-07-01T02:41:20.561Z] Instantiating BrowserWindow...
+[2026-07-01T02:41:20.676Z] Loading URL: http://localhost:3987
+[2026-07-01T02:41:20.695Z] createWindow finished successfully
+[2026-07-01T02:41:21.304Z] webContents did-finish-load fired
+[2026-07-01T02:43:46.994Z] mainWindow closed event fired
+[2026-07-01T02:43:46.996Z] All windows closed
+[2026-07-01T02:43:46.997Z] Quitting Electron app
+[2026-07-01T02:44:20.583Z] Electron script started
+[2026-07-01T02:44:20.584Z] Starting Express server...
+[2026-07-01T02:44:20.819Z] Express server started successfully
+[2026-07-01T02:44:20.869Z] Electron app ready
+[2026-07-01T02:44:20.872Z] Instantiating BrowserWindow...
+[2026-07-01T02:44:20.974Z] Loading URL: http://localhost:3987
+[2026-07-01T02:44:20.998Z] createWindow finished successfully
+[2026-07-01T02:44:21.768Z] webContents did-finish-load fired
+[2026-07-01T02:46:27.430Z] mainWindow closed event fired
+[2026-07-01T02:46:27.431Z] All windows closed
+[2026-07-01T02:46:27.431Z] Quitting Electron app
+[2026-07-01T02:46:39.942Z] Electron script started
+[2026-07-01T02:46:39.943Z] Starting Express server...
+[2026-07-01T02:46:40.180Z] Express server started successfully
+[2026-07-01T02:46:40.228Z] Electron app ready
+[2026-07-01T02:46:40.231Z] Instantiating BrowserWindow...
+[2026-07-01T02:46:40.322Z] Loading URL: http://localhost:3987
+[2026-07-01T02:46:40.343Z] createWindow finished successfully
+[2026-07-01T02:46:41.074Z] webContents did-finish-load fired
+[2026-07-01T02:48:52.646Z] Electron script started
+[2026-07-01T02:48:52.647Z] Starting Express server...
+[2026-07-01T02:48:52.881Z] Express server started successfully
+[2026-07-01T02:48:52.930Z] Electron app ready
+[2026-07-01T02:48:52.933Z] Instantiating BrowserWindow...
+[2026-07-01T02:48:53.006Z] Loading URL: http://localhost:3987
+[2026-07-01T02:48:53.031Z] createWindow finished successfully
+[2026-07-01T02:48:53.601Z] webContents did-finish-load fired
+[2026-07-01T02:51:52.243Z] mainWindow closed event fired
+[2026-07-01T02:51:52.245Z] All windows closed
+[2026-07-01T02:51:52.245Z] Quitting Electron app
+[2026-07-01T02:51:59.592Z] Electron script started
+[2026-07-01T02:51:59.593Z] Starting Express server...
+[2026-07-01T02:51:59.814Z] Express server started successfully
+[2026-07-01T02:51:59.861Z] Electron app ready
+[2026-07-01T02:51:59.863Z] Instantiating BrowserWindow...
+[2026-07-01T02:51:59.949Z] Loading URL: http://localhost:3987
+[2026-07-01T02:51:59.968Z] createWindow finished successfully
+[2026-07-01T02:52:00.621Z] webContents did-finish-load fired
+[2026-07-01T02:52:53.562Z] mainWindow closed event fired
+[2026-07-01T02:52:53.563Z] All windows closed
+[2026-07-01T02:52:53.563Z] Quitting Electron app
+[2026-07-01T04:17:13.510Z] Electron script started
+[2026-07-01T04:17:13.511Z] Starting Express server...
+[2026-07-01T04:17:13.747Z] Express server started successfully
+[2026-07-01T04:17:13.788Z] Electron app ready
+[2026-07-01T04:17:13.790Z] Instantiating BrowserWindow...
+[2026-07-01T04:17:13.856Z] Loading URL: http://localhost:3987
+[2026-07-01T04:17:13.874Z] createWindow finished successfully
+[2026-07-01T04:17:14.552Z] webContents did-finish-load fired
+[2026-07-01T04:21:19.838Z] Electron script started
+[2026-07-01T04:21:19.840Z] Starting Express server...
+[2026-07-01T04:21:20.046Z] Express server started successfully
+[2026-07-01T04:21:20.089Z] Electron app ready
+[2026-07-01T04:21:20.091Z] Instantiating BrowserWindow...
+[2026-07-01T04:21:20.168Z] Loading URL: http://localhost:3987
+[2026-07-01T04:21:20.187Z] createWindow finished successfully
+[2026-07-01T04:21:20.389Z] webContents did-finish-load fired
+[2026-07-01T04:25:51.280Z] Electron script started
+[2026-07-01T04:25:51.281Z] Starting Express server...
+[2026-07-01T04:25:51.485Z] Express server started successfully
+[2026-07-01T04:25:51.527Z] Electron app ready
+[2026-07-01T04:25:51.529Z] Instantiating BrowserWindow...
+[2026-07-01T04:25:51.607Z] Loading URL: http://localhost:3987
+[2026-07-01T04:25:51.629Z] createWindow finished successfully
+[2026-07-01T04:25:52.019Z] webContents did-finish-load fired
+[2026-07-01T04:26:31.869Z] webContents did-finish-load fired
+[2026-07-01T04:34:15.143Z] Electron script started
+[2026-07-01T04:34:15.145Z] Starting Express server...
+[2026-07-01T04:34:15.371Z] Express server started successfully
+[2026-07-01T04:34:15.413Z] Electron app ready
+[2026-07-01T04:34:15.415Z] Instantiating BrowserWindow...
+[2026-07-01T04:34:15.484Z] Loading URL: http://localhost:3987
+[2026-07-01T04:34:15.499Z] createWindow finished successfully
+[2026-07-01T04:34:15.701Z] webContents did-finish-load fired
+[2026-07-01T04:43:09.227Z] Electron script started
+[2026-07-01T04:43:09.228Z] Starting Express server...
+[2026-07-01T04:43:09.419Z] Express server started successfully
+[2026-07-01T04:43:09.471Z] Electron app ready
+[2026-07-01T04:43:09.475Z] Instantiating BrowserWindow...
+[2026-07-01T04:43:09.538Z] Loading URL: http://localhost:3987
+[2026-07-01T04:43:09.554Z] createWindow finished successfully
+[2026-07-01T04:43:09.988Z] webContents did-finish-load fired
+[2026-07-01T04:43:57.813Z] webContents did-finish-load fired
+[2026-07-01T05:35:24.092Z] Electron script started
+[2026-07-01T05:35:24.094Z] Starting Express server...
+[2026-07-01T05:35:24.308Z] Express server started successfully
+[2026-07-01T05:35:24.353Z] Electron app ready
+[2026-07-01T05:35:24.356Z] Instantiating BrowserWindow...
+[2026-07-01T05:35:24.433Z] Loading URL: http://localhost:3987
+[2026-07-01T05:35:24.452Z] createWindow finished successfully
+[2026-07-01T05:35:24.925Z] webContents did-finish-load fired
+[2026-07-01T05:40:01.707Z] webContents did-finish-load fired
+[2026-07-01T06:32:32.370Z] Electron script started
+[2026-07-01T06:32:32.372Z] Starting Express server...
+[2026-07-01T06:32:32.630Z] Express server started successfully
+[2026-07-01T06:32:32.674Z] Electron app ready
+[2026-07-01T06:32:32.677Z] Instantiating BrowserWindow...
+[2026-07-01T06:32:32.758Z] Loading URL: http://localhost:3987
+[2026-07-01T06:32:32.778Z] createWindow finished successfully
+[2026-07-01T06:32:33.118Z] webContents did-finish-load fired
+[2026-07-01T06:36:35.339Z] mainWindow closed event fired
+[2026-07-01T06:36:35.341Z] All windows closed
+[2026-07-01T06:36:35.342Z] Quitting Electron app
+[2026-07-01T08:44:54.215Z] Electron script started
+[2026-07-01T08:44:54.217Z] Starting Express server...
+[2026-07-01T08:44:54.477Z] Express server started successfully
+[2026-07-01T08:44:54.534Z] Electron app ready
+[2026-07-01T08:44:54.537Z] Instantiating BrowserWindow...
+[2026-07-01T08:44:54.621Z] Loading URL: http://localhost:3987
+[2026-07-01T08:44:54.648Z] createWindow finished successfully
+[2026-07-01T08:44:54.914Z] webContents did-finish-load fired
+[2026-07-01T08:45:46.871Z] webContents did-finish-load fired
+[2026-07-01T08:45:54.294Z] webContents did-finish-load fired
+[2026-07-01T08:45:59.422Z] webContents did-finish-load fired
+[2026-07-01T08:52:33.128Z] Electron script started
+[2026-07-01T08:52:33.129Z] Starting Express server...
+[2026-07-01T08:52:33.387Z] Express server started successfully
+[2026-07-01T08:52:33.433Z] Electron app ready
+[2026-07-01T08:52:33.436Z] Instantiating BrowserWindow...
+[2026-07-01T08:52:33.508Z] Loading URL: http://localhost:3987
+[2026-07-01T08:52:33.527Z] createWindow finished successfully
+[2026-07-01T08:52:33.733Z] webContents did-finish-load fired
+[2026-07-01T08:55:25.503Z] Electron script started
+[2026-07-01T08:55:25.504Z] Starting Express server...
+[2026-07-01T08:55:25.733Z] Express server started successfully
+[2026-07-01T08:55:25.781Z] Electron app ready
+[2026-07-01T08:55:25.783Z] Instantiating BrowserWindow...
+[2026-07-01T08:55:25.881Z] Loading URL: http://localhost:3987
+[2026-07-01T08:55:25.899Z] createWindow finished successfully
+[2026-07-01T08:55:26.364Z] webContents did-finish-load fired
+[2026-07-01T09:49:33.550Z] Electron script started
+[2026-07-01T09:49:33.552Z] Starting Express server...
+[2026-07-01T09:49:33.875Z] Express server started successfully
+[2026-07-01T09:49:33.930Z] Electron app ready
+[2026-07-01T09:49:33.932Z] Instantiating BrowserWindow...
+[2026-07-01T09:49:33.997Z] Loading URL: http://localhost:3987
+[2026-07-01T09:49:34.017Z] createWindow finished successfully
+[2026-07-01T09:49:34.858Z] webContents did-finish-load fired
+[2026-07-01T09:50:04.774Z] webContents did-finish-load fired
+[2026-07-01T11:50:57.364Z] Electron script started
+[2026-07-01T11:50:57.365Z] Starting Express server...
+[2026-07-01T11:51:00.160Z] Express server started successfully
+[2026-07-01T11:51:00.253Z] Electron app ready
+[2026-07-01T11:51:00.255Z] Instantiating BrowserWindow...
+[2026-07-01T11:51:00.362Z] Loading URL: http://localhost:3987
+[2026-07-01T11:51:00.383Z] createWindow finished successfully
+[2026-07-01T11:51:00.905Z] webContents did-finish-load fired
+[2026-07-01T11:51:20.809Z] webContents did-finish-load fired
+[2026-07-01T11:58:15.774Z] Electron script started
+[2026-07-01T11:58:15.775Z] Starting Express server...
+[2026-07-01T11:58:16.088Z] Express server started successfully
+[2026-07-01T11:58:16.134Z] Electron app ready
+[2026-07-01T11:58:16.137Z] Instantiating BrowserWindow...
+[2026-07-01T11:58:16.211Z] Loading URL: http://localhost:3987
+[2026-07-01T11:58:16.232Z] createWindow finished successfully
+[2026-07-01T11:58:16.503Z] webContents did-finish-load fired
+[2026-07-01T12:13:47.670Z] webContents did-finish-load fired
+[2026-07-01T12:14:50.957Z] webContents did-finish-load fired
+[2026-07-01T12:35:55.016Z] Electron script started
+[2026-07-01T12:35:55.018Z] Starting Express server...
+[2026-07-01T12:35:59.876Z] Express server started successfully
+[2026-07-01T12:35:59.986Z] Electron app ready
+[2026-07-01T12:35:59.989Z] Instantiating BrowserWindow...
+[2026-07-01T12:36:00.134Z] Loading URL: http://localhost:3987
+[2026-07-01T12:36:00.161Z] createWindow finished successfully
+[2026-07-01T12:36:00.744Z] webContents did-finish-load fired
+[2026-07-01T14:26:07.485Z] Electron script started
+[2026-07-01T14:26:07.487Z] Starting Express server...
+[2026-07-01T14:26:07.802Z] Express server started successfully
+[2026-07-01T14:26:07.851Z] Electron app ready
+[2026-07-01T14:26:07.854Z] Instantiating BrowserWindow...
+[2026-07-01T14:26:07.942Z] Loading URL: http://localhost:3987
+[2026-07-01T14:26:07.957Z] createWindow finished successfully
+[2026-07-01T14:26:08.330Z] webContents did-finish-load fired
+[2026-07-01T14:42:09.902Z] Electron script started
+[2026-07-01T14:42:09.905Z] Starting Express server...
+[2026-07-01T14:42:10.186Z] Express server started successfully
+[2026-07-01T14:42:10.237Z] Electron app ready
+[2026-07-01T14:42:10.240Z] Instantiating BrowserWindow...
+[2026-07-01T14:42:10.335Z] Loading URL: http://localhost:3987
+[2026-07-01T14:42:10.357Z] createWindow finished successfully
+[2026-07-01T14:42:10.651Z] webContents did-finish-load fired
+[2026-07-01T14:42:29.237Z] webContents did-finish-load fired
+[2026-07-01T14:50:23.154Z] Electron script started
+[2026-07-01T14:50:23.154Z] Starting Express server...
+[2026-07-01T14:50:23.502Z] Express server started successfully
+[2026-07-01T14:50:23.563Z] Electron app ready
+[2026-07-01T14:50:23.565Z] Instantiating BrowserWindow...
+[2026-07-01T14:50:23.668Z] Loading URL: http://localhost:3987
+[2026-07-01T14:50:23.687Z] createWindow finished successfully
+[2026-07-01T14:50:23.999Z] webContents did-finish-load fired
+[2026-07-01T14:50:34.811Z] webContents did-finish-load fired
+[2026-07-01T14:53:17.681Z] mainWindow closed event fired
+[2026-07-01T14:53:17.682Z] All windows closed
+[2026-07-01T14:53:17.683Z] Quitting Electron app
+[2026-07-01T14:53:24.556Z] Electron script started
+[2026-07-01T14:53:24.557Z] Starting Express server...
+[2026-07-01T14:53:24.799Z] Express server started successfully
+[2026-07-01T14:53:24.843Z] Electron app ready
+[2026-07-01T14:53:24.847Z] Instantiating BrowserWindow...
+[2026-07-01T14:53:24.952Z] Loading URL: http://localhost:3987
+[2026-07-01T14:53:24.978Z] createWindow finished successfully
+[2026-07-01T14:53:25.416Z] webContents did-finish-load fired
+[2026-07-01T14:53:38.328Z] webContents did-finish-load fired
+[2026-07-01T15:01:46.783Z] webContents did-finish-load fired
+[2026-07-01T15:02:44.792Z] webContents did-finish-load fired
+[2026-07-01T15:10:29.295Z] Electron script started
+[2026-07-01T15:10:29.296Z] Starting Express server...
+[2026-07-01T15:10:30.731Z] Express server started successfully
+[2026-07-01T15:10:30.789Z] Electron app ready
+[2026-07-01T15:10:30.792Z] Instantiating BrowserWindow...
+[2026-07-01T15:10:30.958Z] Loading URL: http://localhost:3987
+[2026-07-01T15:10:30.979Z] createWindow finished successfully
+[2026-07-01T15:10:31.218Z] webContents did-finish-load fired
+[2026-07-01T15:10:45.845Z] webContents did-finish-load fired
+[2026-07-01T15:22:47.044Z] Electron script started
+[2026-07-01T15:22:47.046Z] Starting Express server...
+[2026-07-01T15:22:47.404Z] Express server started successfully
+[2026-07-01T15:22:47.455Z] Electron app ready
+[2026-07-01T15:22:47.458Z] Instantiating BrowserWindow...
+[2026-07-01T15:22:47.566Z] Loading URL: http://localhost:3987
+[2026-07-01T15:22:47.583Z] createWindow finished successfully
+[2026-07-01T15:22:48.132Z] webContents did-finish-load fired
+[2026-07-01T15:25:33.917Z] mainWindow closed event fired
+[2026-07-01T15:25:33.918Z] All windows closed
+[2026-07-01T15:25:33.918Z] Quitting Electron app
+[2026-07-01T15:30:57.896Z] Electron script started
+[2026-07-01T15:30:57.898Z] Starting Express server...
+[2026-07-01T15:30:58.264Z] Express server started successfully
+[2026-07-01T15:30:58.321Z] Electron app ready
+[2026-07-01T15:30:58.323Z] Instantiating BrowserWindow...
+[2026-07-01T15:30:58.466Z] Loading URL: http://localhost:3987
+[2026-07-01T15:30:58.485Z] createWindow finished successfully
+[2026-07-01T15:30:58.760Z] webContents did-finish-load fired
+[2026-07-01T15:31:37.187Z] webContents did-finish-load fired
+[2026-07-01T15:35:52.320Z] Electron script started
+[2026-07-01T15:35:52.322Z] Starting Express server...
+[2026-07-01T15:35:52.643Z] Express server started successfully
+[2026-07-01T15:35:52.697Z] Electron app ready
+[2026-07-01T15:35:52.700Z] Instantiating BrowserWindow...
+[2026-07-01T15:35:52.811Z] Loading URL: http://localhost:3987
+[2026-07-01T15:35:52.831Z] createWindow finished successfully
+[2026-07-01T15:35:53.450Z] webContents did-finish-load fired
+[2026-07-01T15:36:22.235Z] webContents did-finish-load fired
+[2026-07-01T15:57:54.430Z] webContents did-finish-load fired
+[2026-07-01T16:02:10.077Z] Electron script started
+[2026-07-01T16:02:10.078Z] Starting Express server...
+[2026-07-01T16:02:10.391Z] Express server started successfully
+[2026-07-01T16:02:10.440Z] Electron app ready
+[2026-07-01T16:02:10.443Z] Instantiating BrowserWindow...
+[2026-07-01T16:02:10.544Z] Loading URL: http://localhost:3987
+[2026-07-01T16:02:10.570Z] createWindow finished successfully
+[2026-07-01T16:02:10.874Z] webContents did-finish-load fired
+[2026-07-01T16:32:19.060Z] webContents did-finish-load fired
+[2026-07-01T16:36:16.235Z] Electron script started
+[2026-07-01T16:36:16.236Z] Starting Express server...
+[2026-07-01T16:36:16.533Z] Express server started successfully
+[2026-07-01T16:36:16.580Z] Electron app ready
+[2026-07-01T16:36:16.583Z] Instantiating BrowserWindow...
+[2026-07-01T16:36:16.682Z] Loading URL: http://localhost:3987
+[2026-07-01T16:36:16.702Z] createWindow finished successfully
+[2026-07-01T16:36:17.258Z] webContents did-finish-load fired
+[2026-07-01T16:36:22.136Z] webContents did-finish-load fired
+[2026-07-01T16:36:46.382Z] webContents did-finish-load fired
+[2026-07-01T16:38:02.750Z] mainWindow closed event fired
+[2026-07-01T16:38:02.751Z] All windows closed
+[2026-07-01T16:38:02.752Z] Quitting Electron app
+[2026-07-02T02:13:33.861Z] Electron script started
+[2026-07-02T02:13:33.862Z] Starting Express server...
+[2026-07-02T02:13:34.209Z] Express server started successfully
+[2026-07-02T02:13:34.253Z] Electron app ready
+[2026-07-02T02:13:34.256Z] Instantiating BrowserWindow...
+[2026-07-02T02:13:34.359Z] Loading URL: http://localhost:3987
+[2026-07-02T02:13:34.377Z] createWindow finished successfully
+[2026-07-02T02:13:34.661Z] webContents did-finish-load fired
+[2026-07-02T02:23:30.757Z] Electron script started
+[2026-07-02T02:23:30.758Z] Starting Express server...
+[2026-07-02T02:23:31.047Z] Express server started successfully
+[2026-07-02T02:23:31.093Z] Electron app ready
+[2026-07-02T02:23:31.095Z] Instantiating BrowserWindow...
+[2026-07-02T02:23:31.205Z] Loading URL: http://localhost:3987
+[2026-07-02T02:23:31.231Z] createWindow finished successfully
+[2026-07-02T02:23:31.982Z] webContents did-finish-load fired
+[2026-07-02T02:26:50.210Z] Electron script started
+[2026-07-02T02:26:50.211Z] Starting Express server...
+[2026-07-02T02:26:50.475Z] Express server started successfully
+[2026-07-02T02:26:50.521Z] Electron app ready
+[2026-07-02T02:26:50.523Z] Instantiating BrowserWindow...
+[2026-07-02T02:26:50.612Z] Loading URL: http://localhost:3987
+[2026-07-02T02:26:50.634Z] createWindow finished successfully
+[2026-07-02T02:26:51.063Z] webContents did-finish-load fired
+[2026-07-02T02:34:36.991Z] Electron script started
+[2026-07-02T02:34:36.993Z] Starting Express server...
+[2026-07-02T02:34:42.265Z] Express server started successfully
+[2026-07-02T02:34:42.369Z] Electron app ready
+[2026-07-02T02:34:42.372Z] Instantiating BrowserWindow...
+[2026-07-02T02:34:42.482Z] Loading URL: http://localhost:3987
+[2026-07-02T02:34:42.507Z] createWindow finished successfully
+[2026-07-02T02:34:42.907Z] webContents did-finish-load fired
+[2026-07-02T05:43:29.533Z] Electron script started
+[2026-07-02T05:43:29.535Z] Starting Express server...
+[2026-07-02T05:43:34.835Z] Express server started successfully
+[2026-07-02T05:43:34.945Z] Electron app ready
+[2026-07-02T05:43:34.948Z] Instantiating BrowserWindow...
+[2026-07-02T05:43:35.025Z] Loading URL: http://localhost:3987
+[2026-07-02T05:43:35.042Z] createWindow finished successfully
+[2026-07-02T05:43:35.860Z] webContents did-finish-load fired
+[2026-07-02T06:09:16.730Z] Electron script started
+[2026-07-02T06:09:16.732Z] Starting Express server...
+[2026-07-02T06:09:17.018Z] Express server started successfully
+[2026-07-02T06:09:17.065Z] Electron app ready
+[2026-07-02T06:09:17.068Z] Instantiating BrowserWindow...
+[2026-07-02T06:09:17.138Z] Loading URL: http://localhost:3987
+[2026-07-02T06:09:17.158Z] createWindow finished successfully
+[2026-07-02T06:09:17.380Z] webContents did-finish-load fired
+[2026-07-02T06:09:49.058Z] webContents did-finish-load fired
+[2026-07-02T08:37:06.395Z] Electron script started
+[2026-07-02T08:37:06.396Z] Starting Express server...
+[2026-07-02T08:37:06.781Z] Express server started successfully
+[2026-07-02T08:37:06.836Z] Electron app ready
+[2026-07-02T08:37:06.842Z] Instantiating BrowserWindow...
+[2026-07-02T08:37:06.995Z] Loading URL: http://localhost:3987
+[2026-07-02T08:37:07.018Z] createWindow finished successfully
+[2026-07-02T08:37:07.324Z] webContents did-finish-load fired
+[2026-07-02T09:48:43.212Z] mainWindow closed event fired
+[2026-07-02T09:48:43.231Z] All windows closed
+[2026-07-02T09:48:43.232Z] Quitting Electron app
+[2026-07-02T11:14:52.558Z] Electron script started
+[2026-07-02T11:14:52.560Z] Starting Express server...
+[2026-07-02T11:14:56.489Z] Express server started successfully
+[2026-07-02T11:14:56.587Z] Electron app ready
+[2026-07-02T11:14:56.590Z] Instantiating BrowserWindow...
+[2026-07-02T11:14:56.717Z] Loading URL: http://localhost:3987
+[2026-07-02T11:14:56.742Z] createWindow finished successfully
+[2026-07-02T11:14:57.315Z] webContents did-finish-load fired
+[2026-07-02T11:20:58.252Z] Electron script started
+[2026-07-02T11:20:58.254Z] Starting Express server...
+[2026-07-02T11:20:58.643Z] Express server started successfully
+[2026-07-02T11:20:58.705Z] Electron app ready
+[2026-07-02T11:20:58.708Z] Instantiating BrowserWindow...
+[2026-07-02T11:20:58.841Z] Loading URL: http://localhost:3987
+[2026-07-02T11:20:58.868Z] createWindow finished successfully
+[2026-07-02T11:20:59.123Z] webContents did-finish-load fired
+[2026-07-02T11:44:03.819Z] Electron script started
+[2026-07-02T11:44:03.820Z] Starting Express server...
+[2026-07-02T11:44:04.403Z] Express server started successfully
+[2026-07-02T11:44:04.488Z] Electron app ready
+[2026-07-02T11:44:04.492Z] Instantiating BrowserWindow...
+[2026-07-02T11:44:04.576Z] Loading URL: http://localhost:3987
+[2026-07-02T11:44:04.639Z] createWindow finished successfully
+[2026-07-02T11:44:04.945Z] webContents did-finish-load fired
+[2026-07-02T11:44:40.883Z] Electron script started
+[2026-07-02T11:44:40.884Z] Starting Express server...
+[2026-07-02T11:44:41.216Z] Express server started successfully
+[2026-07-02T11:44:41.266Z] Electron app ready
+[2026-07-02T11:44:41.270Z] Instantiating BrowserWindow...
+[2026-07-02T11:44:41.383Z] Loading URL: http://localhost:3987
+[2026-07-02T11:44:41.408Z] createWindow finished successfully
+[2026-07-02T11:44:41.676Z] webContents did-finish-load fired
+[2026-07-02T11:47:30.534Z] mainWindow closed event fired
+[2026-07-02T11:47:30.538Z] All windows closed
+[2026-07-02T11:47:30.539Z] Quitting Electron app
+[2026-07-02T11:48:08.648Z] Electron script started
+[2026-07-02T11:48:08.649Z] Starting Express server...
+[2026-07-02T11:48:08.953Z] Express server started successfully
+[2026-07-02T11:48:09.003Z] Electron app ready
+[2026-07-02T11:48:09.006Z] Instantiating BrowserWindow...
+[2026-07-02T11:48:09.106Z] Loading URL: http://localhost:3987
+[2026-07-02T11:48:09.140Z] createWindow finished successfully
+[2026-07-02T11:48:09.607Z] webContents did-finish-load fired
+[2026-07-02T11:52:27.454Z] Electron script started
+[2026-07-02T11:52:27.455Z] Starting Express server...
+[2026-07-02T11:52:27.738Z] Express server started successfully
+[2026-07-02T11:52:27.783Z] Electron app ready
+[2026-07-02T11:52:27.785Z] Instantiating BrowserWindow...
+[2026-07-02T11:52:27.871Z] Loading URL: http://localhost:3987
+[2026-07-02T11:52:27.891Z] createWindow finished successfully
+[2026-07-02T11:52:28.448Z] webContents did-finish-load fired
+[2026-07-02T12:03:33.728Z] webContents did-finish-load fired
+[2026-07-02T12:03:57.865Z] Electron script started
+[2026-07-02T12:03:57.866Z] Starting Express server...
+[2026-07-02T12:03:58.117Z] Express server started successfully
+[2026-07-02T12:03:58.160Z] Electron app ready
+[2026-07-02T12:03:58.162Z] Instantiating BrowserWindow...
+[2026-07-02T12:03:58.253Z] Loading URL: http://localhost:3987
+[2026-07-02T12:03:58.277Z] createWindow finished successfully
+[2026-07-02T12:03:58.726Z] webContents did-finish-load fired
+[2026-07-02T12:11:30.960Z] Electron script started
+[2026-07-02T12:11:30.961Z] Starting Express server...
+[2026-07-02T12:11:31.219Z] Express server started successfully
+[2026-07-02T12:11:31.267Z] Electron app ready
+[2026-07-02T12:11:31.270Z] Instantiating BrowserWindow...
+[2026-07-02T12:11:31.367Z] Loading URL: http://localhost:3987
+[2026-07-02T12:11:31.399Z] createWindow finished successfully
+[2026-07-02T12:11:31.670Z] webContents did-finish-load fired
+[2026-07-02T12:14:07.678Z] Electron script started
+[2026-07-02T12:14:07.679Z] Starting Express server...
+[2026-07-02T12:14:07.906Z] Express server started successfully
+[2026-07-02T12:14:07.945Z] Electron app ready
+[2026-07-02T12:14:07.947Z] Instantiating BrowserWindow...
+[2026-07-02T12:14:08.040Z] Loading URL: http://localhost:3987
+[2026-07-02T12:14:08.059Z] createWindow finished successfully
+[2026-07-02T12:14:08.485Z] webContents did-finish-load fired
+[2026-07-02T12:17:27.310Z] Electron script started
+[2026-07-02T12:17:27.311Z] Starting Express server...
+[2026-07-02T12:17:27.548Z] Express server started successfully
+[2026-07-02T12:17:27.588Z] Electron app ready
+[2026-07-02T12:17:27.591Z] Instantiating BrowserWindow...
+[2026-07-02T12:17:27.682Z] Loading URL: http://localhost:3987
+[2026-07-02T12:17:27.701Z] createWindow finished successfully
+[2026-07-02T12:17:28.125Z] webContents did-finish-load fired
+[2026-07-02T12:35:31.009Z] webContents did-finish-load fired
+[2026-07-02T12:40:48.672Z] mainWindow closed event fired
+[2026-07-02T12:40:48.674Z] All windows closed
+[2026-07-02T12:40:48.676Z] Quitting Electron app
+[2026-07-02T12:40:58.534Z] Electron script started
+[2026-07-02T12:40:58.535Z] Starting Express server...
+[2026-07-02T12:40:58.824Z] Express server started successfully
+[2026-07-02T12:40:58.866Z] Electron app ready
+[2026-07-02T12:40:58.869Z] Instantiating BrowserWindow...
+[2026-07-02T12:40:58.969Z] Loading URL: http://localhost:3987
+[2026-07-02T12:40:58.992Z] createWindow finished successfully
+[2026-07-02T12:40:59.609Z] webContents did-finish-load fired
+[2026-07-02T12:41:46.881Z] webContents did-finish-load fired
+[2026-07-02T13:21:02.829Z] mainWindow closed event fired
+[2026-07-02T13:21:02.835Z] All windows closed
+[2026-07-02T13:21:02.836Z] Quitting Electron app
+[2026-07-02T15:43:53.144Z] Electron script started
+[2026-07-02T15:43:53.146Z] Starting Express server...
+[2026-07-02T15:43:58.879Z] Express server started successfully
+[2026-07-02T15:43:58.988Z] Electron app ready
+[2026-07-02T15:43:58.990Z] Instantiating BrowserWindow...
+[2026-07-02T15:43:59.122Z] Loading URL: http://localhost:3987
+[2026-07-02T15:43:59.146Z] createWindow finished successfully
+[2026-07-02T15:43:59.750Z] webContents did-finish-load fired
+[2026-07-02T15:44:27.332Z] webContents did-finish-load fired
+[2026-07-02T15:47:08.525Z] webContents did-finish-load fired
+[2026-07-02T15:49:35.567Z] webContents did-finish-load fired
+[2026-07-02T16:06:20.830Z] webContents did-finish-load fired
+[2026-07-02T16:20:54.928Z] webContents did-finish-load fired
+[2026-07-02T16:21:28.384Z] webContents did-finish-load fired
+[2026-07-02T16:32:21.297Z] Electron script started
+[2026-07-02T16:32:21.299Z] Starting Express server...
+[2026-07-02T16:32:21.622Z] Express server started successfully
+[2026-07-02T16:32:21.683Z] Electron app ready
+[2026-07-02T16:32:21.686Z] Instantiating BrowserWindow...
+[2026-07-02T16:32:21.856Z] Loading URL: http://localhost:3987
+[2026-07-02T16:32:21.879Z] createWindow finished successfully
+[2026-07-02T16:32:22.216Z] webContents did-finish-load fired
+[2026-07-02T16:32:29.541Z] webContents did-finish-load fired
+[2026-07-03T05:42:18.441Z] Electron script started
+[2026-07-03T05:42:18.444Z] Starting Express server...
+[2026-07-03T05:42:24.744Z] Express server started successfully
+[2026-07-03T05:42:24.970Z] Electron app ready
+[2026-07-03T05:42:24.973Z] Instantiating BrowserWindow...
+[2026-07-03T05:42:25.115Z] Loading URL: http://localhost:3987
+[2026-07-03T05:42:25.148Z] createWindow finished successfully
+[2026-07-03T05:42:25.981Z] webContents did-finish-load fired
+[2026-07-03T06:01:42.817Z] Electron script started
+[2026-07-03T06:01:42.818Z] Starting Express server...
+[2026-07-03T06:01:48.157Z] Express server started successfully
+[2026-07-03T06:01:48.247Z] Electron app ready
+[2026-07-03T06:01:48.250Z] Instantiating BrowserWindow...
+[2026-07-03T06:01:48.365Z] Loading URL: http://localhost:3987
+[2026-07-03T06:01:48.386Z] createWindow finished successfully
+[2026-07-03T06:01:49.176Z] webContents did-finish-load fired
+[2026-07-03T06:16:30.939Z] Electron script started
+[2026-07-03T06:16:30.941Z] Starting Express server...
+[2026-07-03T06:16:31.234Z] Express server started successfully
+[2026-07-03T06:16:31.287Z] Electron app ready
+[2026-07-03T06:16:31.289Z] Instantiating BrowserWindow...
+[2026-07-03T06:16:31.372Z] Loading URL: http://localhost:3987
+[2026-07-03T06:16:31.393Z] createWindow finished successfully
+[2026-07-03T06:16:31.678Z] webContents did-finish-load fired
+[2026-07-03T13:20:51.938Z] mainWindow closed event fired
+[2026-07-03T13:20:51.953Z] All windows closed
+[2026-07-03T13:20:51.955Z] Quitting Electron app
+[2026-07-03T13:21:05.124Z] Electron script started
+[2026-07-03T13:21:05.124Z] Starting Express server...
+[2026-07-03T13:21:05.462Z] Express server started successfully
+[2026-07-03T13:21:05.519Z] Electron app ready
+[2026-07-03T13:21:05.522Z] Instantiating BrowserWindow...
+[2026-07-03T13:21:05.618Z] Loading URL: http://localhost:3987
+[2026-07-03T13:21:05.655Z] createWindow finished successfully
+[2026-07-03T13:21:06.088Z] webContents did-finish-load fired
+[2026-07-03T13:40:45.158Z] mainWindow closed event fired
+[2026-07-03T13:40:45.174Z] All windows closed
+[2026-07-03T13:40:45.176Z] Quitting Electron app
+[2026-07-03T13:42:25.158Z] Electron script started
+[2026-07-03T13:42:25.159Z] Starting Express server...
+[2026-07-03T13:42:25.541Z] Express server started successfully
+[2026-07-03T13:42:25.593Z] Electron app ready
+[2026-07-03T13:42:25.597Z] Instantiating BrowserWindow...
+[2026-07-03T13:42:25.694Z] Loading URL: http://localhost:3987
+[2026-07-03T13:42:25.733Z] createWindow finished successfully
+[2026-07-03T13:42:26.110Z] webContents did-finish-load fired
+[2026-07-03T13:43:09.613Z] mainWindow closed event fired
+[2026-07-03T13:43:09.614Z] All windows closed
+[2026-07-03T13:43:09.615Z] Quitting Electron app
+[2026-07-04T10:03:17.058Z] Electron script started
+[2026-07-04T10:03:17.060Z] Starting Express server...
+[2026-07-04T10:03:22.763Z] Express server started successfully
+[2026-07-04T10:03:22.861Z] Electron app ready
+[2026-07-04T10:03:22.864Z] Instantiating BrowserWindow...
+[2026-07-04T10:03:22.973Z] Loading URL: http://localhost:3987
+[2026-07-04T10:03:23.008Z] createWindow finished successfully
+[2026-07-04T10:03:23.753Z] webContents did-finish-load fired
+[2026-07-04T10:03:44.229Z] webContents did-finish-load fired
+[2026-07-05T02:16:53.408Z] Electron script started
+[2026-07-05T02:16:53.410Z] Starting Express server...
+[2026-07-05T02:17:02.424Z] Express server started successfully
+[2026-07-05T02:17:02.817Z] Electron app ready
+[2026-07-05T02:17:02.820Z] Instantiating BrowserWindow...
+[2026-07-05T02:17:03.101Z] Loading URL: http://localhost:3987
+[2026-07-05T02:17:03.142Z] createWindow finished successfully
+[2026-07-05T02:17:04.808Z] webContents did-finish-load fired
+[2026-07-05T02:18:35.198Z] webContents did-finish-load fired
+[2026-07-05T03:49:19.863Z] webContents did-finish-load fired
+[2026-07-05T07:23:42.865Z] Electron script started
+[2026-07-05T07:23:42.868Z] Starting Express server...
+[2026-07-05T07:23:43.211Z] Express server started successfully
+[2026-07-05T07:23:43.270Z] Electron app ready
+[2026-07-05T07:23:43.273Z] Instantiating BrowserWindow...
+[2026-07-05T07:23:43.400Z] Loading URL: http://localhost:3987
+[2026-07-05T07:23:43.430Z] createWindow finished successfully
+[2026-07-05T07:23:44.177Z] webContents did-finish-load fired
+[2026-07-05T07:25:32.787Z] webContents did-finish-load fired
+[2026-07-05T13:56:09.781Z] Electron script started
+[2026-07-05T13:56:09.784Z] Starting Express server...
+[2026-07-05T13:56:16.727Z] Express server started successfully
+[2026-07-05T13:56:16.945Z] Electron app ready
+[2026-07-05T13:56:16.949Z] Instantiating BrowserWindow...
+[2026-07-05T13:56:17.206Z] Loading URL: http://localhost:3987
+[2026-07-05T13:56:17.268Z] createWindow finished successfully
+[2026-07-05T13:56:18.480Z] webContents did-finish-load fired
+[2026-07-09T13:41:01.673Z] Electron script started
+[2026-07-09T13:41:01.674Z] Starting Express server...
+[2026-07-09T13:41:06.820Z] Express server started successfully
+[2026-07-09T13:41:06.910Z] Electron app ready
+[2026-07-09T13:41:06.912Z] Instantiating BrowserWindow...
+[2026-07-09T13:41:06.997Z] Loading URL: http://localhost:3987
+[2026-07-09T13:41:07.016Z] createWindow finished successfully
+[2026-07-09T13:41:07.465Z] webContents did-finish-load fired

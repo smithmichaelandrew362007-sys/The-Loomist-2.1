@@ -1,0 +1,11 @@
+[
+  {
+    "id": "143e9cc0-f0b5-423e-a674-e0ad024701aa",
+    "name": "Smith",
+    "email": "smithmichaelandrew362007@gmail.com",
+    "subject": "This is an  example question",
+    "message": "just to check if it is working or not?",
+    "read": true,
+    "createdAt": "2026-06-29T10:48:21.952Z"
+  }
+]
